@@ -7,7 +7,7 @@ Shared **Prettier config**.
 Install via npm:
 
 ```sh
-npm install --save-dev @hibanka/prettier-config
+npm install --save-dev prettier @hibanka/prettier-config
 ```
 
 ---

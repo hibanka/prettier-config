@@ -1,10 +1,12 @@
 {
   "name": "@hibanka/prettier-config",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Shared Prettier config",
   "repository": "https://github.com/Hibanka/prettier-config",
   "main": ".prettierrc.json",
-  "files": [".prettierrc.json"],
+  "files": [
+    ".prettierrc.json"
+  ],
   "dependencies": {
     "prettier": "^2.5.1"
   },

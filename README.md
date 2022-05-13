@@ -4,8 +4,6 @@ Shared **Prettier config**.
 
 ## Installation
 
-Install via npm:
-
 ```sh
 npm install --save-dev prettier @hibanka/prettier-config
 ```

@@ -1,6 +1,6 @@
 {
   "name": "@hibanka/prettier-config",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "Shared Prettier config",
   "repository": "https://github.com/Hibanka/prettier-config",
   "main": ".prettierrc.json",
@@ -8,7 +8,7 @@
     ".prettierrc.json"
   ],
   "dependencies": {
-    "prettier": "^2.6.2"
+    "prettier": "^2.7.1"
   },
   "engines": {
     "node": ">=16"

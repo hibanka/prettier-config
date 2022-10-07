@@ -1,7 +1,7 @@
 {
   "name": "@hibanka/prettier-config",
-  "version": "3.4.0",
-  "description": "Shared Prettier config",
+  "version": "3.5.0",
+  "description": "Node.js shared config for Prettier",
   "repository": "https://github.com/Hibanka/prettier-config",
   "main": ".prettierrc.json",
   "files": [
